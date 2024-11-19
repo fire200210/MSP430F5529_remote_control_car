@@ -1,0 +1,12 @@
+"./main.obj"
+"./ADCelectricity/electricity.obj"
+"./MPU9250_MPU6500/i2c.obj"
+"./MPU9250_MPU6500/mpu9250_calibrate.obj"
+"./MPU9250_MPU6500/mpu9250_msp430.obj"
+"./drivers/gpio.obj"
+"./drivers/i2c.obj"
+"./drivers/vl53l0x.obj"
+"./drivers/vl6180x.obj"
+"../lnk_msp430f5529.cmd"
+-llibmath.a
+-llibc.a
