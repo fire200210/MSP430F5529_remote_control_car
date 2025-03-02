@@ -4,12 +4,20 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
+
+/*--- 參考作者 Artful Bytes: https://github.com/artfulbytes/vl6180x_vl53l0x_msp430 ---*/
 #include "drivers/i2c.h"
 #include "drivers/vl53l0x.h"
+/*----------------------------------------------------------------------*/
+
 #include "ADCelectricity/electricity.h"
+
+/*--- 參考作者 art-wenyi: https://github.com/art-wenyi/MSP430_MPU9250 ---*/
 #include "MPU9250_MPU6500/i2c.h"
 #include "MPU9250_MPU6500/mpu9250_msp430.h"
 #include "MPU9250_MPU6500/mpu9250_calibrate.h"
+/*----------------------------------------------------------------------*/
+
 //=====================================MPU6500變數============================================//
 #define MPU6500_sensor
 
@@ -23,20 +31,7 @@ struct Sensor sensor = {
 };
 
 // calibrated sensor data
-struct Sensor_Calibrate sensor_calibrate = {
-//    .wbx = 0,
-//    .wby = 0,
-//    .wbz = 0,
-//    .bx = 1,
-//    .bz = 0,
-//    .SEq1 = 1,
-//    .SEq2 = 0,
-//    .SEq3 = 0,
-//    .SEq4 = 0,
-//    .beta = 1,
-//    .zeta = 0,
-//    .t_elapse = 0
-};
+struct Sensor_Calibrate sensor_calibrate = {0};
 
 char MPU6500_concated[40] = {0};
 unsigned char MPU6500_CIPSEND_0[] = "AT+CIPSEND=0,39\r\n";  //MPU6500傳送字串

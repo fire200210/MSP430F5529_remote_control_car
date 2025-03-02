@@ -1,0 +1,47 @@
+[
+   {
+      "directory" : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"C:/Users/lin09/workspace_ccstheia/CAR_TEST\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/ADCelectricity/electricity.c"
+   },
+   {
+      "directory" : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"C:/Users/lin09/workspace_ccstheia/CAR_TEST\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/MPU9250_MPU6500/i2c.c"
+   },
+   {
+      "directory" : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"C:/Users/lin09/workspace_ccstheia/CAR_TEST\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/MPU9250_MPU6500/mpu9250_calibrate.c"
+   },
+   {
+      "directory" : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"C:/Users/lin09/workspace_ccstheia/CAR_TEST\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/MPU9250_MPU6500/mpu9250_msp430.c"
+   },
+   {
+      "directory" : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"C:/Users/lin09/workspace_ccstheia/CAR_TEST\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/drivers/gpio.c"
+   },
+   {
+      "directory" : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"C:/Users/lin09/workspace_ccstheia/CAR_TEST\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/drivers/i2c.c"
+   },
+   {
+      "directory" : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"C:/Users/lin09/workspace_ccstheia/CAR_TEST\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/drivers/vl53l0x.c"
+   },
+   {
+      "directory" : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"C:/Users/lin09/workspace_ccstheia/CAR_TEST\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/drivers/vl6180x.c"
+   },
+   {
+      "directory" : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"C:/Users/lin09/workspace_ccstheia/CAR_TEST\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "C:/Users/lin09/workspace_ccstheia/CAR_TEST/main.c"
+   }
+]
