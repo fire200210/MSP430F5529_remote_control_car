@@ -7,5 +7,4 @@
 ![專案示例](picture/car3.png)
 
 ```sh
-# 下載專案
 git clone https://github.com/fire200210/MSP430F5529_remote_control_car.git
